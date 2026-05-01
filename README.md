@@ -10,7 +10,6 @@ This repository documents my structured approach to mastering Python programming
 |----------|-------|--------|
 | [Codedex](https://www.codedex.io/) | Interactive Python fundamentals and projects | In Progress |
 | [Python Crash Course, 3rd Edition](https://ehmatthes.github.io/pcc_3e/) | Introductory programming book by Eric Matthes (No Starch Press) | In Progress |
-| Coursera | Academic approach to computer science and Python | Coming Soon |
 
 ## Repository Structure
 
